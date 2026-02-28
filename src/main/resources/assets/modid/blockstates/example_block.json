@@ -1,0 +1,11 @@
+{
+	"variants": {
+		"normal": [
+			{ "model": "stone" }
+		],
+		"facing=south": { "model": "stone" },
+		"facing=west": { "model": "stone" },
+		"facing=north": { "model": "stone" },
+		"facing=east": { "model": "stone" }
+	}
+}
