@@ -1,7 +1,7 @@
 # CRglTF-Example
 Example usages for CRglTF.
 
-To get a PBR rendering result like preview below, please follow this [tutorial](https://github.com/TimLee9024/CRglTF/docs/enabling_pbr_material_of_gltf_models_through_shader_pack.md).
+To get a PBR rendering result like preview below, please follow this [tutorial](https://github.com/TimLee9024/CRglTF/blob/master/docs/enabling_pbr_material_of_gltf_models_through_shader_pack.md).
 
 > The CRglTF mod isn't available on any maven yet, please download the JAR file from the [Release](https://github.com/TimLee9024/CRglTF/releases) and put in `libs` folder.
 
